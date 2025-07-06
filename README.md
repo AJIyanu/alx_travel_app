@@ -33,21 +33,21 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
 
-    ```bash
-    git clone [https://github.com/your-username/alxtravelapp.git](https://github.com/your-username/alxtravelapp.git)
+    ```
+    git clone [https://github.com/AJIyanu/alx_travel_app](https://github.com/AJIyanu/alx_travel_app)
     cd alxtravelapp
     ```
 
 2.  **Create and activate a virtual environment:**
 
-    ```bash
+    ```
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
 3.  **Install dependencies:**
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
@@ -67,13 +67,13 @@ Ensure you have the following installed:
 
 5.  **Run Migrations:**
 
-    ```bash
+    ```
     python manage.py migrate
     ```
 
 6.  **Run the Development Server:**
 
-    ```bash
+    ```
     python manage.py runserver
     ```
 
